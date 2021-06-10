@@ -1,0 +1,6 @@
+train: Lazuli-Cross-Object-Recognition-Dataset/images/train/
+val: Lazuli-Cross-Object-Recognition-Dataset/images/val/
+
+nc: 3
+
+names: ['Undefined Object', 'Facemask', 'Face Shield']
