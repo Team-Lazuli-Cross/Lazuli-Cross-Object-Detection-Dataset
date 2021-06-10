@@ -1,0 +1,38 @@
+<annotation>
+	<folder>val</folder>
+	<filename>lazulicross_0096.jpg</filename>
+	<path>C:\Users\clyde\Desktop\Lazuli-Cross-Object-Detection-Dataset-main\images\val\lazulicross_0096.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1333</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Facemask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>89</ymin>
+			<xmax>1099</xmax>
+			<ymax>912</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Undefined Object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>858</xmin>
+			<ymin>373</ymin>
+			<xmax>1113</xmax>
+			<ymax>813</ymax>
+		</bndbox>
+	</object>
+</annotation>
