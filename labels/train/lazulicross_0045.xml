@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>lazulicross_0045.jpg</filename>
+	<path>C:\Users\Sean Lim\Desktop\Lazuli-Cross-Object-Detection-Dataset-main\Lazuli-Cross-Object-Detection-Dataset-main\images\train\lazulicross_0045.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2164</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Undefined Object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>904</xmin>
+			<ymin>33</ymin>
+			<xmax>1285</xmax>
+			<ymax>833</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Undefined Object</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1372</xmin>
+			<ymin>40</ymin>
+			<xmax>2164</xmax>
+			<ymax>956</ymax>
+		</bndbox>
+	</object>
+</annotation>

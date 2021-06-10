@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>lazulicross_0018.jpg</filename>
+	<path>C:\Users\Sean Lim\Desktop\Lazuli-Cross-Object-Detection-Dataset-main\Lazuli-Cross-Object-Detection-Dataset-main\images\train\lazulicross_0018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1333</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Face Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>7</ymin>
+			<xmax>1213</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+</annotation>
