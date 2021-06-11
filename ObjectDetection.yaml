@@ -1,5 +1,5 @@
-train: Lazuli-Cross-Object-Recognition-Dataset/images/train/
-val: Lazuli-Cross-Object-Recognition-Dataset/images/val/
+train: Lazuli-Cross-Object-Detection-Dataset/images/train/
+val: Lazuli-Cross-Object-Detection-Dataset/images/val/
 
 nc: 3
 
