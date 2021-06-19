@@ -1,3 +1,2 @@
-facemask
-face shield
-.
+Facemask
+Face Shield
